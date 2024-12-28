@@ -1,0 +1,9 @@
+# Ruby
+vendor/bundle/
+
+# Python
+venv/
+env/
+
+# Node.js
+node_modules/
